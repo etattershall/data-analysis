@@ -1,7 +1,7 @@
 # data-analysis
 A collection of data analysis notebooks
 
-## Flagopedia
+## 1. Flagopedia
 
 Which flags are predominantly red and white?
 
